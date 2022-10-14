@@ -2,7 +2,8 @@
 
 * ### Лабораторная работа №2 часть 1: найти оптимумы тестовых функций оптимизации 2-мя алгоритмами библиотеки pygmo
 
-    Для решения были выбраны алгоритмы Simple Genetic Algorithm и Self-adaptive Differential Evolution). В качестве тестовых функций для оптимизации использовались           функция Растригина и функция Леви №13.
+    Для решения были выбраны алгоритмы Simple Genetic Algorithm и Self-adaptive Differential Evolution).
+    В качестве тестовых функций для оптимизации использовались функция Растригина и функция Леви №13.
 
     https://colab.research.google.com/drive/12bN7FMGWlSFz4UZox42DjvnI_cmm8Z36?usp=sharing
 
