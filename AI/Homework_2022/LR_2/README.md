@@ -11,3 +11,5 @@
 ### Ссылка на Colab:
 
     https://colab.research.google.com/drive/12bN7FMGWlSFz4UZox42DjvnI_cmm8Z36?usp=sharing
+
+![screen-gif](./sga.gif)
