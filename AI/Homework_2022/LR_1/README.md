@@ -12,6 +12,10 @@
 *   Применить методы к тестовым функциям
 *   Анимировать применение методов к тестовым функциям
 
+### Актуальное решение находится по ссылке:
+
+    https://github.com/Katyreena/MAI/blob/main/AI/Homework_2022/LR_1/ML_LR1.ipynb
+
 ### Ссылка на Colab:
 
     https://colab.research.google.com/drive/105hcad9MvBq9fIa06_LDARLvzDoW4K8m?usp=sharing
