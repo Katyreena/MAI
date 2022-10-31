@@ -16,4 +16,6 @@
 
     https://colab.research.google.com/drive/105hcad9MvBq9fIa06_LDARLvzDoW4K8m?usp=sharing
 
-![screen-gif](./animate.gif)
+![screen-gif](./Matias.gif)
+
+![screen-gif](./Camel.gif)
