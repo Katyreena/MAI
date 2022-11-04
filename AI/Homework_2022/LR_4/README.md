@@ -8,7 +8,7 @@
 
 *   **Часть 2.** Осуществить подбор параметров модели классификации с помощью Optuna.
 
-     *Для задачи классификации был выбран датасет sklearn.datasets.load_wine и классификатор sklearn.linear_model.LogisticRegression. В качестве глобальных параметров рассматривались: C, lot, solver.*
+     *Для задачи классификации был выбран датасет sklearn.datasets.load_wine и классификатор sklearn.linear_model.LogisticRegression. В качестве глобальных параметров рассматривались: C, tol, solver.*
 
 ### Ссылка на Colab:
     https://colab.research.google.com/drive/1-2io-mKNm1aQtVluVhOrFsEBWCujNZLv?usp=sharing
