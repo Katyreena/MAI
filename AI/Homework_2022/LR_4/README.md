@@ -3,7 +3,7 @@
 ### Формулировка ТЗ:
 
 *   Найти оптимум функциии с помощью Optuna
-*   Осуществить подбор одного из параметров модели классификации с помощью Optuna
+*   Осуществить подбор параметров модели классификации с помощью Optuna
 
 ### Ссылка на Colab:
     https://colab.research.google.com/drive/1-2io-mKNm1aQtVluVhOrFsEBWCujNZLv?usp=sharing
