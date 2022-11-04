@@ -8,4 +8,4 @@
 ### Ссылка на Colab:
     https://colab.research.google.com/drive/1-2io-mKNm1aQtVluVhOrFsEBWCujNZLv?usp=sharing
 
-![screen-png](./optuna_wine.png)
+![screen-jpg](./optuna_wine.jpg)
