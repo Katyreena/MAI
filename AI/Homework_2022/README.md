@@ -13,3 +13,12 @@
 *Преподаватель:* Кондаратцев Вадим Леонидович
 
 *Год:* 2022
+
+
+# Datasets:
+
+*Табличный:* https://www.kaggle.com/datasets/hessahalkhattabi/animals
+
+*Табличный (запасной):* https://www.kaggle.com/datasets/tuannguyenvananh/pokemon-dataset-with-team-combat
+
+*Нетабличный:* https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic-v2
