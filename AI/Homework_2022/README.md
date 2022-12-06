@@ -17,8 +17,10 @@
 
 # Datasets:
 
-*Табличный:* https://www.kaggle.com/datasets/hessahalkhattabi/animals
+*Табличный:* https://www.kaggle.com/datasets/swashbuckler1/pokemon-gen1gen8
 
 *Табличный (запасной):* https://www.kaggle.com/datasets/tuannguyenvananh/pokemon-dataset-with-team-combat
 
 *Нетабличный:* https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic-v2
+
+*Нетабличный (запасной):* https://www.kaggle.com/datasets/williamu32/dataset-bart-or-homer
