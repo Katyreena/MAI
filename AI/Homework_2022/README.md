@@ -21,6 +21,8 @@
 
 *Табличный (запасной):* https://www.kaggle.com/datasets/tuannguyenvananh/pokemon-dataset-with-team-combat
 
+*Табличный (запасной №2):* https://www.kaggle.com/datasets/hessahalkhattabi/animals
+
 *Нетабличный:* https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic-v2
 
 *Нетабличный (запасной):* https://www.kaggle.com/datasets/williamu32/dataset-bart-or-homer
